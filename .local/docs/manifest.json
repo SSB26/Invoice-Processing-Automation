@@ -1,7 +1,0 @@
-{
-  "UiPath.Database.Activities": "2.1.1",
-  "UiPath.DocumentProcessing.Contracts": "2.4.0-preview",
-  "UiPath.Excel.Activities": "3.6.0-preview",
-  "UiPath.PDF.Activities": "4.5.0-preview",
-  "UiPath.System.Activities": "26.8.0"
-}
